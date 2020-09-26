@@ -2,14 +2,14 @@
 
 Here you will find assignments for the topics I took at the University of Oslo.
 
-#### Best Folders / Subjects to Check out:
+## Best Folders / Subjects to Check out:
 
 - IN3030 - Effektiv parallellprogrammering (Effective parallel programming)
 - IN3110 - Problemløsning med høynivå-språk (Problem solving with high-level language)
 - IN2140 - Introduksjon til operativsystemer og datakommunikasjon (Introduction to operating systems and data communication)
 - IN2030 - Prosjektoppgave i programmering (Project assignment in programming)
 
-Subjects:
+#### Subjects:
 
 IN1010 - Objektorientert programmering (Object-oriented programming)
 
