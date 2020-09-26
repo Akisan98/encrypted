@@ -4,8 +4,11 @@ Mist
 
 <img src="photos/ic-mist-logo-web.png" height="150">
 
-
 Mist applikasjonen er utviklet av Akisan Thiagalingam, Anders Martin Kval, Fredrik Aleksander Haugen Joakimsen, Jonas Blårud og Kenneth Bayeng Sanglay. Applikasjonen viser luftkvaliteten i norske byer på en lett og brukervennelig måte med data fra Meteorologisk institutt sitt API, den viser også annen praktiske infomasjon som været, luftfuktighet og vindhastighet.
+
+### How open the project-files?
+
+See instructions on: https://github.com/Akisan98/encrypted
 
 
 Krav for kjøring av Applikasjonen

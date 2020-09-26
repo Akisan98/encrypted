@@ -2,6 +2,10 @@
 
 Here you will find assignments for the topics I took at the University of Oslo.
 
+### How open the project-files?
+
+See instructions on: https://github.com/Akisan98/encrypted
+
 ## Best Folders / Subjects to Check out:
 
 - IN3030 - Effektiv parallellprogrammering (Effective parallel programming)

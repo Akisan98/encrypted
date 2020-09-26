@@ -8,6 +8,10 @@ Min Serie er utviklet av meg, og prøver å løse dette problemet.
 
 <br>
 
+### How open the project-files?
+
+See instructions on: https://github.com/Akisan98/encrypted
+
 ### Krav for kjøring av Applikasjonen
 
 ​	**Android SDK**
