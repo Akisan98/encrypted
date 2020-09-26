@@ -5,15 +5,9 @@ Here you can find all encrypted projects, this is most likely due to UiO rules r
 
 - Most of my **Mandatory Assignments**
 
-- The project files to 
+- The project files to [**Binge**](https://www.akisan.ml/binge/ )
 
-  [**Binge**]: https://www.akisan.ml/binge/
-
-  
-
-- The project files to 
-
-  [**Mist**]: https://www.akisan.ml/mist/
+- The project files to [**Mist**](https://www.akisan.ml/mist/ )
 
   
 
