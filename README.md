@@ -11,11 +11,11 @@ Download 7-Zip to proceed s unzip the encrypted project-files
 
 ### What you can find:
 
-- Most of my **Mandatory Assignments**
+- Most of my **Mandatory Assignments **from UiO (University)
 
-- The project files to [**Binge**](https://www.akisan.ml/binge/ )
+- The project files to [**Binge**](https://github.com/Akisan98/encrypted/tree/master/Binge ) read more about Binge [here](https://www.akisan.ml/binge/ )
 
-- The project files to [**Mist**](https://www.akisan.ml/mist/ )
+- The project files to [**Mist**](https://github.com/Akisan98/encrypted/tree/master/Mist) read more about Mist [here](https://www.akisan.ml/mist/  )
 
   
 

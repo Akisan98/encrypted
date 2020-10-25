@@ -6,9 +6,23 @@ Mist
 
 Mist applikasjonen er utviklet av Akisan Thiagalingam, Anders Martin Kval, Fredrik Aleksander Haugen Joakimsen, Jonas Blårud og Kenneth Bayeng Sanglay. Applikasjonen viser luftkvaliteten i norske byer på en lett og brukervennelig måte med data fra Meteorologisk institutt sitt API, den viser også annen praktiske infomasjon som været, luftfuktighet og vindhastighet.
 
+<br>
+
 ### How open the project-files?
 
-See instructions on: https://github.com/Akisan98/encrypted
+Files in this folder are encrypted due to UiO rules regarding publishing of Mandatory Assignments or lacking rights to content used by the program / application. The **password** is provided in my CV (not the one on [this](https://www.akisan.ml/) website) or request it provided that you are not currently student at UiO taking any of IT-subjects. 
+
+#### If you are running Windows:
+
+Download all the files in a folder, and then run the .exe file to unzip the encrypted project-files.
+
+#### If you are not using Windows:
+
+Download 7-Zip to proceed s unzip the encrypted project-files
+
+More on: https://github.com/Akisan98/encrypted
+
+<br>
 
 
 Krav for kjøring av Applikasjonen
