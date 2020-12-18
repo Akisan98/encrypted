@@ -12,4 +12,22 @@ I'm planning to take this application from web-scraping to using themoviedb's AP
 
 <br>
 
+### How open the project-files?
+
+Files in this folder are encrypted due to UiO rules regarding publishing of Mandatory Assignments or lacking rights to content used by the program / application. The **password** is provided in my CV (not the one on [this](https://www.akisan.ml/) website) or request it provided that you are not currently student at UiO taking any of IT-subjects. 
+
+#### If you are running Windows:
+
+Download all the files in a folder, and then run the .exe file to unzip the encrypted project-files.
+
+#### If you are not using Windows:
+
+Download 7-Zip to proceed s unzip the encrypted project-files
+
+More on: https://github.com/Akisan98/encrypted
+
+<br>
+
+<br>
+
 PS: This was my first independent project, and is messy as of now. 
