@@ -1,0 +1,15 @@
+# My Shows
+
+My Shows keeps track of all the shows you watch and how far you have progressed, so you don't need to keep guessing anymore!
+
+**Current Status is that the Application still works, but iMDb is working on a new version of their website that might break this app; as this app is heavily reliant on the iMDb web pages.**
+
+This is my first independent project and my second Android Application (both written in Kotlin). At the time of creation i couldn't find any proper data source with simple APIs, so I based my application on web-scraping iMDb pages, therefore it might be a touch slow to add long running shows (As it's actually looking up many pages).
+
+<br>
+
+I'm planning to take this application from web-scraping to using themoviedb's APIs, while keeping the design as it is, so the app can be used in the future, but I strongly recommend checking out my newer [**TV Tracker App - Binge**](https://github.com/Akisan98/Akisan98/releases)
+
+<br>
+
+PS: This was my first independent project, and is messy as of now. 
