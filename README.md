@@ -13,7 +13,7 @@ Download 7-Zip to proceed s unzip the encrypted project-files
 
 - Most of my **Mandatory Assignments **from UiO (University)
 
-- The project files to [**Binge**](https://github.com/Akisan98/encrypted/tree/master/Binge ) read more about Binge [here](https://www.akisan.ml/binge/ )
+- The project files to [**My Shows**](https://github.com/Akisan98/encrypted/tree/master/My Shows) read more about My Shows (Former - Binge) [here](https://www.akisan.ml/binge/ )
 
 - The project files to [**Mist**](https://github.com/Akisan98/encrypted/tree/master/Mist) read more about Mist [here](https://www.akisan.ml/mist/  )
 
