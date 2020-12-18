@@ -17,5 +17,7 @@ Download 7-Zip to proceed s unzip the encrypted project-files
 
 - The project files to [**Mist**](https://github.com/Akisan98/encrypted/tree/master/Mist) read more about Mist [here](https://www.akisan.ml/mist/  )
 
+- The project files to [**Happy Food**](https://github.com/Akisan98/encrypted/tree/master/HappyFood)
+
   
 
