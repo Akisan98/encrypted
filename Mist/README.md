@@ -8,6 +8,8 @@ Mist applikasjonen er utviklet av Akisan Thiagalingam, Anders Martin Kval, Fredr
 
 <br>
 
+<img src="photos\Screenshot-1558601109.png" height="400" /><img src="photos\Screenshot-1558601142.png" height="400" /><img src="photos\Screenshot-1558601151.png" height="400" /><img src="photos\Screenshot-1558601178.png" height="400" />
+
 ### How open the project-files?
 
 Files in this folder are encrypted due to UiO rules regarding publishing of Mandatory Assignments or lacking rights to content used by the program / application. The **password** is provided in my CV (not the one on [this](https://www.akisan.ml/) website) or request it provided that you are not currently student at UiO taking any of IT-subjects. 

@@ -2,6 +2,10 @@
 
 Happy Foods helps you keep you body happy, by making it easier to know whether a allergen is present in a product or meal. (Currently aim to target Lactose, Gluten and diabetes)
 
+<img src="photos\Screenshot_1608311635.png" height="400" /><img src="photos\Screenshot_1608311642.png" height="400" /><img src="photos\Screenshot_1608311647.png" height="400" /><img src="photos\Screenshot_1608311651.png" height="400" />
+
+
+
 <br>
 
 ### How open the project-files?
