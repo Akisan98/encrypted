@@ -16,7 +16,7 @@ I'm planning to take this application from web-scraping to using themoviedb's AP
 
 ### How open the project-files?
 
-Files in this folder are encrypted due to UiO rules regarding publishing of Mandatory Assignments or lacking rights to content used by the program / application. The **password** is provided in my CV (not the one on [this](https://www.akisan.ml/) website) or request it provided that you are not currently student at UiO taking any of IT-subjects. 
+Files in this folder are encrypted due lacking rights to content used by the program / application. The **password** is provided in my CV or request it provided that you are not currently student at UiO taking any of IT-subjects. 
 
 #### If you are running Windows:
 
